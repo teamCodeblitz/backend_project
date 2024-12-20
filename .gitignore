@@ -1,0 +1,33 @@
+node_modules
+
+# Output
+.output
+.vercel
+/.svelte-kit
+/build
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.*
+!.env.example
+!.env.test
+
+# Vite
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+# Additional exclusions
+node_modules/
+build/
+dist/
+*.log
+
+# Add this line to your .gitignore file
+backend/config/connection.php
+
+/backend/vendor/
+/backend/.env
