@@ -3,6 +3,9 @@ Backend Project (ENCRYPTION, DECRYPTION, HASH)
 Members:
 - Dayandante, Michael D.
 
+Instructor:
+- Sir Melner Balce
+
 Frontend:
 - SvelteKit
 - Flowbite
@@ -34,7 +37,8 @@ Modules:
 
 
 Commands:
-- npm run tauri dev
+- npm run tauri dev (if desktop app)
+- npm run dev
 
 Reminders:
 - Always commit on branch first before pushing to main repository
