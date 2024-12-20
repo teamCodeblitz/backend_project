@@ -1,4 +1,4 @@
-# KPPOS - Kape Rustiko Point of Sale System with Inventory Management System
+Backend Project (ENCRYPTION, DECRYPTION, HASH)
 
 Members:
 - Dayandante, Michael D.
