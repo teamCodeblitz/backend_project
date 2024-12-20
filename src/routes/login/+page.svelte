@@ -9,7 +9,7 @@
 		isLoading = true; // Set loading state to true
 
             // Make a POST request to the login endpoint
-            fetch('http://localhost/backend/backend/modules/auth.php', {
+            fetch('http://localhost/backend_project/backend/modules/auth.php', {
 			method: 'POST',
 			headers: {
 				'Content-Type': 'application/json'

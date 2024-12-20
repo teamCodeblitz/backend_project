@@ -17,7 +17,7 @@
 
     onMount(async () => {
         try {
-            const response = await fetch('http://localhost/backend/backend/modules/get.php');
+            const response = await fetch('http://localhost/backend_project/backend/modules/get.php');
             if (response.ok) {
                 const encryptedText = await response.text();
                 const key = CryptoJS.enc.Utf8.parse('1234567890123456');

@@ -12,7 +12,7 @@
         };
 
         try {
-            const response = await fetch('http://localhost/backend/backend/modules/auth.php', {
+            const response = await fetch('http://localhost/backend_project/backend/modules/auth.php', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
